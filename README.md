@@ -1,2 +1,2 @@
 # MedMera.se
-Our perfect website (A website to test github organisations. )
+A website to test working with github organisations.
