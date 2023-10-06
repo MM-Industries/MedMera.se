@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+* {
+    font-family: 'Young Serif', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+    padding: 1px;
+    color: rgb(37, 75, 47);
+}
